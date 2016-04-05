@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  App::HL7::Dump: 0.01
+  App::HL7::Dump: 0.02
   Net::HL7: 0.81
   perl: 5.6.0
 resources:
