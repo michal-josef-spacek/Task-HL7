@@ -8,6 +8,9 @@ SEE ALSO
     App::HL7::Dump
         Base class for hl7dump script.
 
+    App::HL7::Send
+        Base class for hl7send script.
+
     Net::HL7
         The Net-HL7 package is a simple Perl API for creating, parsing
         sending and receiving HL7 messages.

@@ -19,6 +19,7 @@ name 'Task-HL7';
 readme_from 'HL7.pm';
 recursive_author_tests('xt');
 requires 'App::HL7::Dump' => 0.02;
+requires 'App::HL7::Send' => 0.01;
 requires 'Net::HL7' => 0.81;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.

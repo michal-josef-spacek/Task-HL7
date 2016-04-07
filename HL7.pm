@@ -31,6 +31,10 @@ Task::HL7 - Install the HL7 modules.
 
 Base class for hl7dump script.
 
+=item L<App::HL7::Send>
+
+Base class for hl7send script.
+
 =item L<Net::HL7>
 
 The Net-HL7 package is a simple Perl API for creating, parsing sending and receiving HL7 messages.
